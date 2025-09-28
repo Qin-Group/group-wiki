@@ -1,3 +1,10 @@
+---
+layout: default
+title: Books
+parent: Reading material
+nav_order: 6
+---
+
 The following books are good text books and reference books
 
 # Math
