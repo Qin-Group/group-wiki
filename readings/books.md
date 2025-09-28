@@ -6,36 +6,119 @@ nav_order: 6
 ---
 
 The following books are good text books and reference books
+- [Math](#math)
+  - [Dynamical systems](#dynamical-systems)
+  - [Probability theory and Stochastic process](#probability-theory-and-stochastic-process)
+  - [Random matrix theory](#random-matrix-theory)
+  - [Perturbation and Asymptotic Analysis](#perturbation-and-asymptotic-analysis)
+  - [Topology and Geometry](#topology-and-geometry)
+- [Physics](#physics)
+  - [Statistical Physics](#statistical-physics)
+  - [Field theory](#field-theory)
+  - [Miscellaneous](#miscellaneous)
+- [Computer Science/ Machine Learning](#computer-science-machine-learning)
+- [Neuroscience](#neuroscience)
+- [Theoretical and computational neuroscience](#theoretical-and-computational-neuroscience)
+- [Scientific writing](#scientific-writing)
+- [Science History and autobiography](#science-history-and-autobiography)
+
 
 # Math
 ## Dynamical systems
-Introductory textbook on differential equations
+Introductory textbook on differential equations 
+- Arnold, V. I. (1992). Ordinary Differential Equations. Springer.
 
-Introductory textbooks on nonlinear dynamical systems
+Introductory textbooks on nonlinear dynamical systems:
+- Strogatz, S. H. (2018). Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering. CRC Press.
 
-More advanced textbooks on bifurcations
 
-Nonequilibrium pattern formation
+More advanced textbooks on bifurcations:
+- Kuznetsov, Y. A. (2013). Elements of Applied Bifurcation Theory. Springer.
+- Guckenheimer, J., & Holmes, P. (2013). Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields. Springer.
+
+Nonequilibrium pattern formation:
+- Cross, M. C., & Hohenberg, P. C. (1993). Pattern formation outside of equilibrium. Reviews of Modern Physics, 65(3), 851. 
+- 欧阳颀，非线性与斑图动力学导论，北京大学出版社，2006
 
 
 ## Probability theory and Stochastic process
+Probability theory
+- A. Papoulis and S. U. Pillai, Probability, Random Variables, and Stochastic Processes, 4th edition, McGraw-Hill, 2002.
+- S. M. Ross, Introduction to Probability Models, 11th edition, Academic Press, 2014.
+  
+Handbooks and applications of stochastic processes
+- Gardner, C. W. (2009). Stochastic Methods: A Handbook for the Natural and Social Sciences. Springer.
+- van Kampen, N. G. (2007). Stochastic Processes in Physics and Chemistry. North Holland.
+- H. Risken, The Fokker-Planck Equation: Methods of Solution and Applications, Springer, 1996.
+- Bernt Oksendal, Stochastic Differential Equations: An Introduction with Applications, 6th edition, Springer, 2003.
+- Simo Särkkä and Arno Solin, Applied Stochastic Differential Equations, Cambridge University Press, 2019.
 
 ## Random matrix theory
 Random matrix theory (RMT) is a very powerful and versatile tool for understanding the behavior of large-scale networks. For example, the behavior of random recurrent neural networks (RNNs).
+- Marc Portters and Jean-Philippe Bouchaud, "A First Course in Random Matrix Theory: For Physicists, Engineers and Data Scientists", Cambridge University Press, 2022.
+- Terence Tao, "Topics in Random Matrix Theory", American Mathematical Society, 2012
+- Giacomo Livan, Marcel Novaes and Pierpaolo Vivo, "Introduction to Random Matrices: Theory and Practice", Springer, 2018.
+- Madan LalMehta, "Random Matrices", Elsevier, 2004.
 
+## Perturbation and Asymptotic Analysis
+- J. G. Simmonds and J. E. Mann Jr., A first look at perturbation theory, Dover publication Inc, 2nd ed, 1986
+
+
+## Topology and Geometry
+- Tristan Needham, Visual differential geometry and forms: a mathematical drama in five acts, Princeton University Press, 2021.
+- John M. Lee, Introduction to Topological Manifolds, 2nd edition, Springer, 2010.
+- John M. Lee, Introduction to Smooth Manifolds, 2nd edition, Springer, 2012.
+  
 # Physics
 ## Statistical Physics
 Basic level introductory statistical physics books.
+- W. Greiner, L. Neise, and H. Stöcker, Thermodynamics and Statistical Mechanics, Springer, 1995.
+- L. Landau and E. M. Lifshitz, Statistical Physics, 3rd edition, Part 1, Butterworth-Heinemann, 1980.
+- Kerson Huang, Statistical Mechanics, 2nd edition, Wiley, 1987.
+- Mehran Kardar, Statistical Physics of Particles, Cambridge University Press, 2007
+
 
 More advanced books, statistical field theory which will cover tools for critical phenomena such as the Renormalization group theory.
+- Mehran Kardar, Statistical Physics of Fields, Cambridge University Press, 2007.
+- S-K, Ma, Modern Theory of Critical Phenomena, Westview Press, 2000.
+- Nigel Goldenfeld, Lectures on Phase Transitions and the Renormalization Group, CRC Press, 2018.
+- J. J. Binney, N. J. Dowrick, A. J. Fisher, and M. E. J. Newman, The Theory of Critical Phenomena: An Introduction to the Renormalization Group, Oxford University Press, 1992.
+- Zinn-Justin, Quantum Field Theory and Critical Phenomena, Oxford University Press, 2002.
+- J. Cardy, Scaling and Renormalization in Statistical Physics, Cambridge University Press, 1996.
 
 
-### Field theory
+**Spin glasses and related**
+
+A popular book on spin glasses and complexity, very readable for outsiders. You can get a sense of the history of the field
+- Daniel L. Stein and Charles M. Newman, Spin Glasses and Complexity, Princeton University Press, 2013.
+
+More advanced books on spin glasses and replica theory
+- M. Mézard, G. Parisi, and M. A. Virasoro, Spin Glass Theory and Beyond, World Scientific, 1987.
+- H. Nishimori, Statistical Physics of Spin Glasses and Information Processing: An Introduction, Oxford University Press, 2001.
+- V. Dotsenko, Introduction to the Replica Theory of Disordered Statistical Systems, Cambridge University Press, 1995.
+
+## Field theory
 To get some exposure to quantum field theory
 
+## Miscellaneous 
+Phillips W. Anderson has a memorior published in 1994, "More and Different: Notes from a Thoughtful Curmudgeon", World Scientific. It has many interesting stories about the development of condensed matter physics in the second half of the 20th century.
+- P. W. Anderson, More and Different: Notes from a Thoughtful Curmudgeon, World Scientific, 1994.
+
+
+**Back of the envelope physics**
+- 赵凯华，定性与半定量物理学，高等出版社，2008
+- A. Zee, Fly by Night Physics: How Physicists Use the Backs of Envelopes to Solve Problems, Princeton University Press, 2020.
+It has a Chinese translation:
+- 徐一鸿，物理夜航船
 # Computer Science/ Machine Learning
 
 Introduction to deep learning
+- Ian Goodfellow, Yoshua Bengio, and Aaron Courville, Deep Learning, MIT Press, 2016. (freely available online at https://www.deeplearningbook.org/)
+
+PyTorch based deep learning book
+- Eli Stevens and Luca Antiga, Deep Learning with PyTorch, Manning Publications, 2020.
+
+
 # Neuroscience
 The 'bible' of neuroscience, which is very comprehensive but can be overwhelming for beginners.
 - Kandel ER, Koester JD, Mack SH 2021, Siegelbaum SA. Principles of Neural Science, 6th ed. McGraw-Hill, 2021.
@@ -53,3 +136,22 @@ If you want to learn more about the design principles of neural systems, Sterlin
 
 A dialogue style popular book on neural development is very readable:
 - Peter Robin Hiesinger,"he Self-Assembling Brain: How Neural Networks Grow Smarter", Princeton University Press, 2021
+
+# Theoretical and computational neuroscience
+- Peter Dayan and L. F. Abbott, Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems, MIT Press, 2001.
+- J. Hertz, A. Krogh, and R. G. Palmer, Introduction to the Theory of Neural Computation, Addison-Wesley, 1991.
+
+Statistcal physics approaches to neural networks
+- T. Geszti, Physical models of neural networks, Wold Scientific, 1990
+
+
+# Scientific writing
+- 
+
+
+# Science History and autobiography
+Although Waston was critized by not giving enough credit to Rosalind Franklin, this book is still a very interesting read about the discovery of the DNA structure.
+- James D. Watson, The Double Helix: A Personal Account of the Discovery of the Structure of DNA, 1968.
+
+Crick's book is more reflective and philosophical about the nature of scientific discovery.
+- Francis Crick, What Mad Pursuit: A Personal View of Scientific Discovery, 1988.
