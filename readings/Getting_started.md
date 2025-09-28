@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Getting Started
-parent: readings
+parent: Reading material
 nav_order: 2
 ---
 This document provides some of the useful reading material and resource to help you get started with your research in our group.

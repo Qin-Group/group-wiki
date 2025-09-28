@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biological Physics Reading
-parent: readings
+parent: Reading material
 nav_order: 5
 ---
 The decadal report from the US National Academy of Science on [Biological Physics](https://www.nationalacademies.org/our-work/biological-physicsphysics-of-living-systems-a-decadal-survey). Biological Physics provides a very comprehensive overview of the field. 
