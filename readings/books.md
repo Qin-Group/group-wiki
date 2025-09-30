@@ -12,11 +12,13 @@ The following books are good text books and reference books
   - [Random matrix theory](#random-matrix-theory)
   - [Perturbation and Asymptotic Analysis](#perturbation-and-asymptotic-analysis)
   - [Topology and Geometry](#topology-and-geometry)
+  - [Statistics](#statistics)
 - [Physics](#physics)
   - [Statistical Physics](#statistical-physics)
   - [Field theory](#field-theory)
   - [Miscellaneous](#miscellaneous)
 - [Computer Science/ Machine Learning](#computer-science-machine-learning)
+- [Information theory](#information-theory)
 - [Neuroscience](#neuroscience)
 - [Theoretical and computational neuroscience](#theoretical-and-computational-neuroscience)
 - [Scientific writing](#scientific-writing)
@@ -59,16 +61,26 @@ Random matrix theory (RMT) is a very powerful and versatile tool for understandi
 - Terence Tao, "Topics in Random Matrix Theory", American Mathematical Society, 2012
 - Giacomo Livan, Marcel Novaes and Pierpaolo Vivo, "Introduction to Random Matrices: Theory and Practice", Springer, 2018.
 - Madan LalMehta, "Random Matrices", Elsevier, 2004.
+- Lloyd N. Trefethen and Mark Embree, Spectral and Pseudospectra: The Behavior of Nonnormal Matrices and Operators, Princeton University Press, 2005.
 
 ## Perturbation and Asymptotic Analysis
 - J. G. Simmonds and J. E. Mann Jr., A first look at perturbation theory, Dover publication Inc, 2nd ed, 1986
+
+Variational methods
+- I. M. Gelfand and S. V. Fomin, Calculus of Variations, Dover Publications Inc, 2000.
 
 
 ## Topology and Geometry
 - Tristan Needham, Visual differential geometry and forms: a mathematical drama in five acts, Princeton University Press, 2021.
 - John M. Lee, Introduction to Topological Manifolds, 2nd edition, Springer, 2010.
 - John M. Lee, Introduction to Smooth Manifolds, 2nd edition, Springer, 2012.
-  
+
+## Statistics
+- T. Hastie, R. Tibshirani, and J. Friedman, The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd edition, Springer, 2009. 
+- G. Casella and R. L. Berger, Statistical Inference, 2nd edition, Duxbury, 2001.
+- Larry Wasserman, All of Statistics: A Concise Course in Statistical Inference, Springer, 2004.
+- H. Kantz, A. J. Schreiber, and T. P. Sejnowski, Nonlinear Time Series Analysis, 2nd edition, Cambridge University Press, 2004.
+- R. J. Baxter, Exactly Solved Models in Statistical Mechanics, Academic Press, 1982.
 # Physics
 ## Statistical Physics
 Basic level introductory statistical physics books.
@@ -109,16 +121,28 @@ Phillips W. Anderson has a memorior published in 1994, "More and Different: Note
 - 赵凯华，定性与半定量物理学，高等出版社，2008
 - A. Zee, Fly by Night Physics: How Physicists Use the Backs of Envelopes to Solve Problems, Princeton University Press, 2020.
 It has a Chinese translation:
-- 徐一鸿，物理夜航船
+- 徐一鸿，物理夜航船：直觉与估算，高等教育出版社，2021
+
 # Computer Science/ Machine Learning
 
-Introduction to deep learning
+- Bishop, C. M. (2006). Pattern Recognition and Machine Learning. Springer.
+- D. G. Luenberger, Optimization by Vector Space Methods, Wiley, 1997.
+- S. Boyd and L. Vandenberghe, Convex Optimization, Cambridge University Press, 2004.
+
+
+Introduction to deep learning 
 - Ian Goodfellow, Yoshua Bengio, and Aaron Courville, Deep Learning, MIT Press, 2016. (freely available online at https://www.deeplearningbook.org/)
 
 PyTorch based deep learning book
 - Eli Stevens and Luca Antiga, Deep Learning with PyTorch, Manning Publications, 2020.
 
+# Information theory
+Best introductory book on information theory, very readable.
 
+A standard reference book on information theory.
+- Thomas M. Cover and Joy A. Thomas, Elements of Information Theory, 2nd edition, Wiley-Interscience, 2006.
+
+- David J.C. MacKay, Information Theory, Inference, and Learning Algorithms, Cambridge University Press, 2003.
 # Neuroscience
 The 'bible' of neuroscience, which is very comprehensive but can be overwhelming for beginners.
 - Kandel ER, Koester JD, Mack SH 2021, Siegelbaum SA. Principles of Neural Science, 6th ed. McGraw-Hill, 2021.
@@ -142,11 +166,15 @@ A dialogue style popular book on neural development is very readable:
 - J. Hertz, A. Krogh, and R. G. Palmer, Introduction to the Theory of Neural Computation, Addison-Wesley, 1991.
 
 Statistcal physics approaches to neural networks
+- M. Helias, D. Dahmen, Statistical Field Theory for Neural Networks, Springer, 2020.
 - T. Geszti, Physical models of neural networks, Wold Scientific, 1990
 
 
 # Scientific writing
-- 
+- Hilary Glasman-Deal, Science Research Writing for Non-Native Speakers of English, 2nd edition, Imperial College Press, 2010.
+- E. B. White, The Elements of Style, 4th edition, Longman, 2000.
+- R. H. Fiske, To the Point: A Dictionary of Concise Writing, HarperCollins, 2001.
+- J. Scheff, Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded, 2nd edition, Oxford University Press, 2013.
 
 
 # Science History and autobiography
