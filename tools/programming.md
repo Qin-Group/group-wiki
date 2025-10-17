@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Programming
-parent: ResearchTools
+parent: Research Tools
 nav_order: 1
 ---
 

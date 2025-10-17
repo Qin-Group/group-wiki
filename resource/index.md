@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research Tools
+title: Resources
 nav_order: 7
 has_children: true
 ---
