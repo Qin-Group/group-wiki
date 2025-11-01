@@ -40,3 +40,21 @@ nav_order: 3
 # Learn Neuroscience
 - **[iBiology](https://www.ibiology.org/page/2/?s=neuroscience)**  
   Description: iBiology provides free online videos by leading scientists covering a wide range of topics in neuroscience. The videos are designed to be accessible to a broad audience, including students and researchers.
+
+
+
+# Machine learning
+
+## Neural networks
+
+
+## Reinforcement learning
+- [DeepMind UCL RL course 2021](https://github.com/yjavaherian/deepmind-x-ucl-rl/tree/main)
+- [Hugging face intro to RL](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+- [Open AI Spining Up](https://spinningup.openai.com/en/latest/)
+- [David Silver's RL lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+- [Lilian Weng's blog on RL](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
+- [OpenAI Intro to RL Lecture](https://github.com/jachiam/rl-intro/blob/master/Presentation/rl_intro.pdf)
+- [UC Berkeley CS285](https://rail.eecs.berkeley.edu/deeprlcourse/)
+- [Steve Brunton's lectures on RL](https://www.youtube.com/watch?v=0MNVhXEX9to&list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74)
+- [List of RL course and resource](https://towardsdatascience.com/best-free-courses-and-resources-to-learn-reinforcement-learning-ed6633608cb2/)

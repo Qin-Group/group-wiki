@@ -14,7 +14,7 @@ nav_order: 1
 
 
 # LaTex
-You use SJTU latex server without installing the latex package locally, though you'll have to connect to the internet to use it. To login, use your STJU credentials.
+You can use SJTU latex server without installing the latex package locally, though you'll have to connect to the internet to use it. To login, use your STJU credentials.
 
 # Git and GitHub
 
