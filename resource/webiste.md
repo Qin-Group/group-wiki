@@ -46,7 +46,11 @@ nav_order: 3
 # Machine learning
 
 ## Neural networks
+- [Dive into DL](https://zh.d2l.ai/chapter_convolutional-neural-networks/lenet.html#img-lenet)
 
+## Diffusion model
+- [A survey on diffusion model for time series](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
+- 
 
 ## Reinforcement learning
 - [DeepMind UCL RL course 2021](https://github.com/yjavaherian/deepmind-x-ucl-rl/tree/main)

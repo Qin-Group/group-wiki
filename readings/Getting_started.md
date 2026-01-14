@@ -151,5 +151,31 @@ The idea that neural computation is fundamentally a dynamical process is due to 
 - J. J. Hopfield, "Brain, neural networks, and computation", Review of Modern Physics, 71(2):431, 1999.
 
 
+## Olfactory systems
+### Reviews
+- Su C Y, Menuz K, Carlson J R. [Olfactory Perception: Receptors, Cells, and Circuits](https://www.cell.com/fulltext/S0092-8674(09)01175-1). Cell,139 : 45 – 59, 2009.
+- [Olfactory Information Processing in Drosophila](https://www.sciencedirect.com/science/article/pii/S0960982209013013)
+- Wilson R I. [Early Olfactory Processing in Drosophila: Mechanisms and Principles](https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-062111-150533). Annual Review of Neuroscience, 36 : 217 – 241, 2013.
+- Barnum, George;Hong, Elizabeth J. (2022) [Olfactory coding](https://www.sciencedirect.com/science/article/pii/S0960982222017535),Current Biology
+- Zhao and McBride, [Evolution of olfactory circuits in insects](https://link.springer.com/article/10.1007/s00359-020-01399-6), Journal of Comparative Physiology A, 2019
 
+### Theories and Mathematical models
+- Cayco­Gajic N A, Silver R A.[Re­evaluating Circuit Mechanisms Underlying Pattern Separation](https://www.cell.com/neuron/fulltext/S0896-6273(19)30071-6).Neuron, 101 : 584 – 602, 2019.
+- Litwin-Kumar, A., Harris, K. D., Axel, R., Sompolinsky, H., & Abbott, L. F. (2017). [Optimal degrees of synaptic connectivity](https://www.sciencedirect.com/science/article/pii/S0896627317300545). Neuron, 93(5), 1153-1164.
+- Babadi, B., & Sompolinsky, H. (2014). [Sparseness and expansion in sensory representations](https://www.cell.com/neuron/fulltext/S0896-6273(14)00646-1). Neuron, 83(5), 1213-1226.
+- Krishnamurthy, K., Hermundstad, A. M., Mora, T., Walczak, A. M., & Balasubramanian, V. (2022). Disorder and the neural representation of complex odors. Frontiers in Computational Neuroscience, 16, 917786.
+### Receptor and OSNs
+- Hallem, E. A., & Carlson, J. R. (2006). Coding of odors by a receptor repertoire. Cell, 125(1), 143-160.
+- Si, G., Kanwal, J. K., Hu, Y., Tabone, C. J., Baron, J., Berck, M., ... & Samuel, A. D. (2019). Structured odorant response patterns across a complete olfactory receptor neuron population. Neuron, 101(5), 950-962.
+- Qin, S., Li, Q., Tang, C., & Tu, Y. (2019). Optimal compressed sensing strategies for an array of nonlinear olfactory receptor neurons with and without spontaneous activity. Proceedings of the National Academy of Sciences, 116(41), 20286-20295.
+### Antenal lobe and PNs
+- Olsen, S. R., Bhandawat, V., & Wilson, R. I. (2010). [Divisive normalization in olfactory population codes](https://www.sciencedirect.com/science/article/pii/S0896627310002497). Neuron, 66(2), 287-299.
+
+
+### Mushroom body and KCs
+- Caron, S. J., Ruta, V., Abbott, L. F., & Axel, R. (2013). Random convergence of olfactory inputs in the Drosophila mushroom body. Nature, 497(7447), 113-117.
+- Zheng, Z., Li, F., Fisher, C., Ali, I. J., Sharifi, N., Calle-Schuler, S., ... & Bock, D. D. (2022). Structured sampling of olfactory input by the fly mushroom body. Current Biology, 32(15), 3334-3349.
+
+### Odor environment
+- Celani, A., Villermaux, E., & Vergassola, M. (2014). Odor landscapes in turbulent environments. Physical Review X, 4(4), 041015.
 ## References
