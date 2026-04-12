@@ -9,6 +9,7 @@ The following books are good text books and reference books
 - [Math](#math)
   - [Dynamical systems](#dynamical-systems)
   - [Probability theory and Stochastic process](#probability-theory-and-stochastic-process)
+  - [Group theory](#group-theory)
   - [Random matrix theory](#random-matrix-theory)
   - [Perturbation and Asymptotic Analysis](#perturbation-and-asymptotic-analysis)
   - [Topology and Geometry](#topology-and-geometry)
@@ -54,6 +55,15 @@ Handbooks and applications of stochastic processes
 - H. Risken, The Fokker-Planck Equation: Methods of Solution and Applications, Springer, 1996.
 - Bernt Oksendal, Stochastic Differential Equations: An Introduction with Applications, 6th edition, Springer, 2003.
 - Simo Särkkä and Arno Solin, Applied Stochastic Differential Equations, Cambridge University Press, 2019.
+  
+## Group theory
+Wu-Ki Tung's book is a classic and emphasizes the physical intuition behind group theory. It covers a wide range of topics from the basics of group theory to applications in physics. A. Zee's book is comprehensive and written with a lot of humor, anecdotes and historical context, making it an enjoyable read. Though it sometimes breaks the flow of the material. Peter Woit's book is more mathematically rigorous.
+
+- Wu-Ki Tung, Group theory in physics, World Scientific, 1985.
+- A. Zee, Group theory in a nutshell for physicists, Princeton University Press, 2016.
+- Ashok Das and Susumu Okubo, Group Theory for Physicists, World Scientific, 2010.
+- Brian C. Hall, Lie Groups, Lie Algebras, and Representations: An Elementary Introduction, 2nd edition, Springer, 2015.
+- Peter Woit, Quantum Theory, Groups and Representations: An Introduction, Springer, 2017.
 
 ## Random matrix theory
 Random matrix theory (RMT) is a very powerful and versatile tool for understanding the behavior of large-scale networks. For example, the behavior of random recurrent neural networks (RNNs).
@@ -159,7 +169,7 @@ If you want to learn more about the design principles of neural systems, Sterlin
 -  Peter Sterling,  Simon Laughlin, "Principles of Neural Design", MIT Press, 2015.
 
 A dialogue style popular book on neural development is very readable:
-- Peter Robin Hiesinger,"he Self-Assembling Brain: How Neural Networks Grow Smarter", Princeton University Press, 2021
+- Peter Robin Hiesinger,"The Self-Assembling Brain: How Neural Networks Grow Smarter", Princeton University Press, 2021
 
 # Theoretical and computational neuroscience
 - Peter Dayan and L. F. Abbott, Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems, MIT Press, 2001.

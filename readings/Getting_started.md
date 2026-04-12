@@ -20,6 +20,14 @@ As the field of theoretical and computational neuroscience is rapidly growing, i
     - [Continuous Attractors Neural Networks](#continuous-attractors-neural-networks)
     - [Motion detection](#motion-detection)
     - [Computation through dynamics](#computation-through-dynamics)
+  - [Olfactory systems](#olfactory-systems)
+    - [Reviews](#reviews)
+    - [Theories and Mathematical models](#theories-and-mathematical-models)
+    - [Receptor and ORNs](#receptor-and-orns)
+    - [Antenal lobe and PNs](#antenal-lobe-and-pns)
+    - [Mushroom body and KCs](#mushroom-body-and-kcs)
+    - [Connectome](#connectome)
+    - [Odor environment](#odor-environment)
   - [References](#references)
 
 
@@ -154,28 +162,43 @@ The idea that neural computation is fundamentally a dynamical process is due to 
 ## Olfactory systems
 ### Reviews
 - Su C Y, Menuz K, Carlson J R. [Olfactory Perception: Receptors, Cells, and Circuits](https://www.cell.com/fulltext/S0092-8674(09)01175-1). Cell,139 : 45 – 59, 2009.
-- [Olfactory Information Processing in Drosophila](https://www.sciencedirect.com/science/article/pii/S0960982209013013)
+- Masse, N. Y., Turner, G. C., & Jefferis, G. S. (2009). [Olfactory Information Processing in Drosophila](https://www.sciencedirect.com/science/article/pii/S0960982209013013). Current Biology, 19(16), R700-R713.
 - Wilson R I. [Early Olfactory Processing in Drosophila: Mechanisms and Principles](https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-062111-150533). Annual Review of Neuroscience, 36 : 217 – 241, 2013.
 - Barnum, George;Hong, Elizabeth J. (2022) [Olfactory coding](https://www.sciencedirect.com/science/article/pii/S0960982222017535),Current Biology
 - Zhao and McBride, [Evolution of olfactory circuits in insects](https://link.springer.com/article/10.1007/s00359-020-01399-6), Journal of Comparative Physiology A, 2019
+- ulton, K. A., Zimmerman, D., Samuel, A., Vogt, K. and Datta, S. R. (2024). Common principles for odour coding across vertebrates and invertebrates. Nature Reviews Neuroscience 25, 453–472.
 
 ### Theories and Mathematical models
 - Cayco­Gajic N A, Silver R A.[Re­evaluating Circuit Mechanisms Underlying Pattern Separation](https://www.cell.com/neuron/fulltext/S0896-6273(19)30071-6).Neuron, 101 : 584 – 602, 2019.
 - Litwin-Kumar, A., Harris, K. D., Axel, R., Sompolinsky, H., & Abbott, L. F. (2017). [Optimal degrees of synaptic connectivity](https://www.sciencedirect.com/science/article/pii/S0896627317300545). Neuron, 93(5), 1153-1164.
 - Babadi, B., & Sompolinsky, H. (2014). [Sparseness and expansion in sensory representations](https://www.cell.com/neuron/fulltext/S0896-6273(14)00646-1). Neuron, 83(5), 1213-1226.
 - Krishnamurthy, K., Hermundstad, A. M., Mora, T., Walczak, A. M., & Balasubramanian, V. (2022). Disorder and the neural representation of complex odors. Frontiers in Computational Neuroscience, 16, 917786.
-### Receptor and OSNs
+- Rudelt, L., Mikulasch, F., Priesemann, V. and Castro, A. F. (2025). Representation learning in cerebellum-like structures. arXiv preprint arXiv:2511.10261.
+- Barak, O., Rigotti, M. and Fusi, S. (2013). The sparseness of mixed selectivity neurons controls the generalization–discrimination trade-off. Journal of Neuroscience 33, 3844–3856.
+
+### Receptor and ORNs
 - Hallem, E. A., & Carlson, J. R. (2006). Coding of odors by a receptor repertoire. Cell, 125(1), 143-160.
 - Si, G., Kanwal, J. K., Hu, Y., Tabone, C. J., Baron, J., Berck, M., ... & Samuel, A. D. (2019). Structured odorant response patterns across a complete olfactory receptor neuron population. Neuron, 101(5), 950-962.
 - Qin, S., Li, Q., Tang, C., & Tu, Y. (2019). Optimal compressed sensing strategies for an array of nonlinear olfactory receptor neurons with and without spontaneous activity. Proceedings of the National Academy of Sciences, 116(41), 20286-20295.
+
 ### Antenal lobe and PNs
+- Bhandawat, V., Olsen, S. R., Gouwens, N. W., Schlief, M. L. and Wilson, R. I. (2007). Sensory processing in the Drosophila antennal lobe increases reliability and separability of ensemble odor representations. Nature neuroscience 10, 1474–1482.
 - Olsen, S. R., Bhandawat, V., & Wilson, R. I. (2010). [Divisive normalization in olfactory population codes](https://www.sciencedirect.com/science/article/pii/S0896627310002497). Neuron, 66(2), 287-299.
 
 
 ### Mushroom body and KCs
 - Caron, S. J., Ruta, V., Abbott, L. F., & Axel, R. (2013). Random convergence of olfactory inputs in the Drosophila mushroom body. Nature, 497(7447), 113-117.
+- Lin, A. C., Bygrave, A. M., de Calignon, A., Lee, T. and Miesenböck, G. (2014b). Sparse, decorrelated odor coding in the mushroom body enhances learned odor discrimination. Nature Neuroscience 17, 559–568.
 - Zheng, Z., Li, F., Fisher, C., Ali, I. J., Sharifi, N., Calle-Schuler, S., ... & Bock, D. D. (2022). Structured sampling of olfactory input by the fly mushroom body. Current Biology, 32(15), 3334-3349.
+- Joyce, J., Norman-Tenazas, R., Rivlin, P., Hwang, G.M., Western, I., Zhang, K., Gray-Roncal, W., and Robinson, B. (2024). Recurrent connections enable point attractor dynamics and dimensionality reduction in a connectome-constrained model of the insect learning center. bioRxiv, 2024–2001.
+- Ellis, K. E., Bervoets, S., Smihula, H., Ganguly, I., Vigato, E., Auer, T. O., Benton, R., Litwin-Kumar, A. and Caron, S. J. C. (2024). Evolution of connectivity architecture in the Drosophila mushroom body. Nature communications 15, 4872.
+
+### Connectome
+- Bates, A. S., Schlegel, P., Roberts, R. J., Drummond, N., Tamimi, I. F., Turnbull, R., Zhao, X., Marin, E. C., Popovici, P. D., Dhawan, S. et al. (2020). Complete connectomic reconstruction of olfactory projection neurons in the fly brain. Current Biology 30, 3183–3199.
+- Dorkenwald, S., Matsliah, A., Sterling, A. R., Schlegel, P., Yu, S.-C., McKellar, C. E., Lin, A., Costa, M., Eichler, K., Yin, Y. et al. (2024). Neuronal wiring diagram of an adult brain. Nature 634, 124–138.
 
 ### Odor environment
+- Dunkel, A., Steinhaus, M., Kotthoff, M., Nowak, B., Krautwurst, D., Schieberle, P. and Hofmann, T. (2014). Nature’s chemical signatures in human olfaction: A foodborne perspective for future biotechnology. Angewandte Chemie - International Edition 53, 7124–7143.
 - Celani, A., Villermaux, E., & Vergassola, M. (2014). Odor landscapes in turbulent environments. Physical Review X, 4(4), 041015.
+
 ## References
