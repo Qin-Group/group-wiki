@@ -57,6 +57,7 @@ Recent experimental work has shown that neural representations of memories can c
 - Mau, W., Hasselmo, M. E. & Cai, D. J. [The brain in motion: how
 ensemble fluidity drives memory-updating and flexibility. eLife 9,
 e63550](https://doi.org/10.7554/eLife.63550) (2020).
+
 ## Experimental studies
 - Ziv, Y., Burns, L. D., Cocker, E. D., Hamel, E. O., Ghosh, K. K., Kitch, L. J., ... & Schnitzer, M. J. (2013). [Long-term dynamics of CA1 hippocampal place codes](https://doi.org/10.1038/nn.3329). Nature neuroscience, 16(3), 264-266.
 - Marks, T. D. & Goard, M. J. [Stimulus-dependent representational
@@ -88,13 +89,45 @@ Neuroscience and artificial intelligence have a long history of cross-fertilizat
 - Pehlevan, C., & Chklovskii, D. B. (2019). [Neuroscience-Inspired Online Unsupervised Learning Algorithms](https://doi.org/10.1109/MSP.2019.2933846). IEEE SIGNAL PROCESSING MAGAZINE, 1053(5888/19).
 - Chklovskii, D. B., [The search for biologically plausible neural computation: The conventional approach](https://www.offconvex.org/2016/11/03/MityaNN1/), off the convex pass, 2016
 - Pehlevan, C., & Chklovskii, D. B., [The search for biologically plausible neural computation: The conventional approach](https://www.offconvex.org/2018/12/03/MityaNN2/), off the convex pass, 2018
+- Lipshutz, D., Bahroun, Y., Golkar, S., Sengupta, A. M., & Chklovskii, D. B. (2023). [Normative framework for deriving neural networks with multicompartmental neurons and non-hebbian plasticity](https://doi.org/10.1103/PRXLife.1.013008). PRX Life, 1(1), 013008.
 
 **Approximation of backpropagation algorithms**
 
 - Guerguiev, J., Lillicrap, T. P., & Richards, B. A. (2017). [Towards deep learning with segregated dendrites](https://doi.org/10.7554/eLife.22901). Elife, 6, e22901.
 - Sacramento, J., Costa, R. P., Bengio, Y., & Senn, W. (2018). [Dendritic error backpropagation](https://papers.nips.cc/paper/8089-dendritic-cortical-microcircuits-approximate-the-backpropagation-algorithm)
 
+
+**Continual learning**
+- Wickramasinghe, B., Saha, G., & Roy, K. (2023). [Continual learning: A review of techniques, challenges, and future directions](https://doi.org/10.1109/TAI.2023.3339091). IEEE Transactions on Artificial Intelligence, 5(6), 2526-2546.
+
 ## Research papers
+**Unsupervised learning**
+- Sengupta, A., Pehlevan, C., Tepper, M., Genkin, A., & Chklovskii, D. (2018). [Manifold-tiling localized receptive fields are optimal in similarity-preserving neural networks](https://papers.nips.cc/paper/7939-manifold-tiling-localized-receptive-fields-are-optimal-in-similarity-preserving-neural-networks). Advances in neural information processing systems, 31.
+- Pehlevan, C., Sengupta, A. M., & Chklovskii, D. B. (2017). [Why do similarity matching objectives lead to Hebbian/anti-Hebbian networks?](https://doi.org/10.1162/NECO_a_01018). Neural computation, 30(1), 84-124.
+
+**Supervised learning**
 - Journé, A., Rodriguez, H. G., Guo, Q., & Moraitis, T. (2022). [Hebbian deep learning without feedback](https://arxiv.org/abs/2209.11883). arXiv preprint arXiv:2209.11883.
 
 - Lillicrap, T. P., Cownden, D., Tweed, D. B., & Akerman, C. J. (2016). [Random synaptic feedback weights support error backpropagation for deep learning](https://doi.org/10.1038/ncomms13276). Nature communications, 7(1), 1-10.
+
+## Brain-inspired learning algorithms
+- Dasgupta, S., Stevens, C. F., & Navlakha, S. (2017). [A neural algorithm for a fundamental computing problem](https://doi.org/10.1126/science.aam9868). Science, 358(6364), 793-796.
+- Wang, L., Zhang, X., Li, Q., Zhang, M., Su, H., Zhu, J., & Zhong, Y. (2023). [Incorporating neuro-inspired adaptability for continual learning in artificial intelligence](https://doi.org/10.1038/s42256-023-00747-w). Nature Machine Intelligence, 5(12), 1356-1368.
+
+## Brain-Computer Interfaces
+**Decoding algorithm**
+
+- Hueber, P., Tang, G., Sifalakis, M., Liaw, H. P., Micheli, A., Tomen, N., & Liu, Y. H. (2024). [Benchmarking of hardware-efficient real-time neural decoding in brain–computer interfaces](https://doi.org/10.1088/2634-4386/ad4411). Neuromorphic Computing and Engineering, 4(2), 024008.
+
+# Topic 4: Data-driven modeling
+As we collect more and more data on neural activity, there is a growing need for data-driven modeling approaches that can help us make sense of this data and generate testable hypotheses.
+
+## Reviews
+
+**Topological data analysis**
+- Curto, C., & Sanderson, N. (2025). [Topological neuroscience: linking circuits to function](https://doi.org/10.1146/annurev-neuro-112723-034315). Annual Review of Neuroscience, 48.
+- Carlsson, G. (2020). [Topological methods for data modelling](https://doi.org/10.1038/s42254-020-00249-3). Nature Reviews Physics, 2(12), 697-708.
+
+
+**Statistical mechanics for neural data**
+- Meshulam, L., & Bialek, W. (2025). [Statistical mechanics for networks of real neurons](https://doi.org/10.1103/jcrn-3nrc). Reviews of Modern Physics, 97(4), 045002.
